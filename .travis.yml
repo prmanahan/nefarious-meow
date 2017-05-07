@@ -1,0 +1,3 @@
+lanquage: go
+go:
+  - 1.8.1
